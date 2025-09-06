@@ -4,7 +4,7 @@
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=435&lines=Студент+Бизнес-информатики;РЭУ+им.+Г.В.+Плеханова;Москва%2C+Россия)](https://git.io/typing-svg)
 
-📧 **daniilphillips@gmail.com**
+📧 **daniilphillips@gmail.com** 🐱 **[Personal Page](https://daniilphillips.github.io/)**
 
 </div>
 
