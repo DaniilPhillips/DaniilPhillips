@@ -18,7 +18,7 @@ const developer = {
     location: "Москва, Россия",
     education: "Бизнес-информатика @ РЭУ им. Г.В. Плеханова",
     interests: ["Data Analysis", "Machine Learning", "Business Intelligence"],
-    currentFocus: "Корпоративные ИС и цифровые технологии в бизнесе"
+    currentFocus: "Аналитика и цифровые технологии в бизнесе"
 };
 ```
 
