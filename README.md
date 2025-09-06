@@ -4,7 +4,7 @@
 
 <p align="center" style="color:#00ffff; font-family:'Courier New', monospace;">
 Студент Бизнес-информатики, РЭУ | Москва<br>
-daniilphillips@gmail.com style="color:#ff00ff;">EMAIL</a> | 
+daniilphillips@gmail.com | 
 <a href="https://github.com/DaniilPhillips" target="_blank" style="color:#ff00ff;">GITHUB</a>
 </p>
 
