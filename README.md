@@ -49,6 +49,7 @@ const developer = {
 
 ## Области экспертизы
 
+<div align="center">
 <table>
 <tr>
 <td width="50%">
