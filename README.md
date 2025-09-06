@@ -4,7 +4,7 @@
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=435&lines=Студент+Бизнес-информатики;РЭУ+им.+Г.В.+Плеханова;Москва%2C+Россия)](https://git.io/typing-svg)
 
-📧 **daniilphillips@gmail.com** | 🐱 **[GitHub](https://github.com/DaniilPhillips)**
+📧 **daniilphillips@gmail.com**
 
 </div>
 
@@ -112,7 +112,6 @@ const developer = {
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:daniilphillips@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DaniilPhillips)
 
 </div>
 
