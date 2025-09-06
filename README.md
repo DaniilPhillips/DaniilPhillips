@@ -1,45 +1,127 @@
-<h1 align="center" style="color:#39ff14; text-shadow:2px 2px #ff00ff; font-family:'Courier New', monospace;">
-  ДАНИИЛ ФИЛЛИПС
-</h1>
+# 💫 ДАНИИЛ ФИЛЛИПС
 
-<p align="center" style="color:#00ffff; font-family:'Courier New', monospace;">
-Студент Бизнес-информатики, РЭУ | Москва<br>
-daniilphillips@gmail.com
-</p>
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=435&lines=Студент+Бизнес-информатики;РЭУ+им.+Г.В.+Плеханова;Москва%2C+Россия)](https://git.io/typing-svg)
+
+📧 **daniilphillips@gmail.com** | 🐱 **[GitHub](https://github.com/DaniilPhillips)**
+
+</div>
 
 ---
 
-<h2 style="color:#ffff00; text-shadow:1px 1px #39ff14; font-family:'Courier New', monospace;">ОБО МНЕ</h2>
+## 🚀 Обо мне
 
-<p style="color:#00ffea; font-family:'Courier New', monospace;">
-Изучаю прикладную математику, информатику, базы данных, корпоративные ИС и машинное обучение.<br>
-Опыт: C++, C#, Python, Java, JavaScript, SQL.<br>
-Люблю анализ данных и цифровые технологии в бизнесе.
-</p>
+```typescript
+const developer = {
+    name: "Даниил Филлипс",
+    location: "Москва, Россия",
+    education: "Бизнес-информатика @ РЭУ им. Г.В. Плеханова",
+    interests: ["Data Analysis", "Machine Learning", "Business Intelligence"],
+    currentFocus: "Корпоративные ИС и цифровые технологии в бизнесе"
+};
+```
 
-<h2 style="color:#ffff00; text-shadow:1px 1px #39ff14; font-family:'Courier New', monospace;">НАВЫКИ</h2>
+Изучаю **прикладную математику**, **информатику**, **базы данных** и **машинное обучение**. Увлекаюсь анализом данных и внедрением цифровых технологий в бизнес-процессы.
 
-<ul style="color:#00ffea; font-family:'Courier New', monospace;">
-  <li>💻 Программирование: C++, C#, Python, Java, JS, HTML, Solidity, SQL</li>
-  <li>📊 Аналитика: Loginom, Yandex DataLens, Microsoft Office</li>
-  <li>📐 Математика: анализ, дискретка, линал, статистика, ML</li>
-  <li>⚙️ Другое: BPMN, IDEF, EPC, бизнес-процессы, корпоративные ИС</li>
-</ul>
+## 🛠️ Технический стек
 
-<h2 style="color:#ffff00; text-shadow:1px 1px #39ff14; font-family:'Courier New', monospace;">ОБРАЗОВАНИЕ</h2>
+<div align="center">
 
-<p style="color:#00ffea; font-family:'Courier New', monospace;">
-<strong>Бакалавриат, Бизнес-информатика</strong><br>
-РЭУ им. Г. В. Плеханова<br>
-2021 – 2026 (ожидается)
-</p>
+### 💻 Языки программирования
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
 
-<h2 style="color:#ffff00; text-shadow:1px 1px #39ff14; font-family:'Courier New', monospace;">КУРСОВАЯ</h2>
+### 🗄️ Базы данных
+![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
-<p style="color:#00ffea; font-family:'Courier New', monospace;">
-2023 — «Сетевые службы: архитектура, протоколы и безопасность»
-</p>
+### 📊 Аналитика и инструменты
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
-<p align="center" style="color:#39ff14; font-family:'Courier New', monospace;">
-© 2025
-</p>
+</div>
+
+## 📈 Области экспертизы
+
+<table>
+<tr>
+<td width="50%">
+
+### 🔬 Математика и анализ
+- 📊 **Статистический анализ**
+- 🧮 **Дискретная математика**
+- 📐 **Линейная алгебра**
+- 🤖 **Machine Learning**
+
+</td>
+<td width="50%">
+
+### 🏢 Бизнес-процессы
+- ⚙️ **BPMN моделирование**
+- 🔄 **IDEF нотация**
+- 📋 **EPC диаграммы**
+- 🏛️ **Корпоративные ИС**
+
+</td>
+</tr>
+</table>
+
+## 🎓 Образование
+
+<div align="center">
+  
+| Степень | Университет | Период | Статус |
+|---------|-------------|---------|---------|
+| **Бакалавр** по направлению<br/>**Бизнес-информатика** | РЭУ им. Г.В. Плеханова<br/>Москва | 2021 - 2026 | 🎯 В процессе |
+
+</div>
+
+## 📚 Академические работы
+
+<details>
+<summary>🔍 Нажмите, чтобы развернуть</summary>
+
+### 📡 Курсовая работа (2023)
+**"Сетевые службы: архитектура, протоколы и безопасность"**
+- Исследование архитектуры современных сетевых служб
+- Анализ протоколов передачи данных
+- Оценка методов обеспечения безопасности
+
+</details>
+
+## 📊 GitHub статистика
+
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DaniilPhillips&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DaniilPhillips&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+## 🌐 Связаться со мной
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:daniilphillips@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DaniilPhillips)
+
+</div>
+
+---
+
+<div align="center">
+  
+### ✨ "Превращаю данные в решения, код в инновации"
+
+![Profile Views](https://komarev.com/ghpvc/?username=DaniilPhillips&color=blueviolet&style=flat-square&label=Просмотры+профиля)
+
+**© 2025 Даниил Филлипс**
+
+</div>
